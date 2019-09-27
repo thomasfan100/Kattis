@@ -1,0 +1,4 @@
+﻿  PokemonGoGo.cpp
+D:\Git\Kattis\PokemonGoGo\PokemonGoGo\PokemonGoGo\PokemonGoGo.cpp(7,1): warning C4005:  'INT_MAX': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\limits.h(35): message :  see previous definition of 'INT_MAX'
+  PokemonGoGo.vcxproj -> D:\Git\Kattis\PokemonGoGo\PokemonGoGo\Debug\PokemonGoGo.exe
